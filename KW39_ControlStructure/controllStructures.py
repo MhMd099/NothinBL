@@ -84,3 +84,5 @@ try:  # <--- TRY-EXCEPT Beispiel
     p1.display()
 except:
     print("An errro occured")
+#else
+#finally
